@@ -4,9 +4,9 @@
     <a href="${servePath}">${blogTitle}</a>  &nbsp;   • &nbsp;
     <a href="https://hacpai.com/tag/Solo" target="_blank">Solo</a> ${version}  <br/>
 
-    Powered by <a href="http://b3log.org" target="_blank">B3log</a> 开源 &nbsp;
-    <span class="ft-warn">&heartsuit;</span>
-    Theme by <a href="https://github.com/9IPHP/9IPHP" target="_blank">9IPHP</a> & <a href="http://vanessa.b3log.org" target="_blank">Vanessa</a>
+    联系方式 <a href="http://wpa.qq.com/msgrd?v=3&amp;uin=474513110&amp;site=qq&amp;menu=yes" target="_blank"><img src="${staticServePath}/skins/${skinDirName}/images/font-qq.png" height="70" width="70"/></a>
+    <a href="https://github.com/shixk" target="_blank"><img src="${staticServePath}/skins/${skinDirName}/images/font-git.png" height="40" width="40"/></a>
+    <a href="https://weibo.com/shixuekai" target="_blank"><img src="${staticServePath}/skins/${skinDirName}/images/font-weibo.png" height="65" width="65"/></a>
 </footer>
 <div class="icon-up" onclick="Util.goTop()"></div>
 

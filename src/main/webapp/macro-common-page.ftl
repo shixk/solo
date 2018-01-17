@@ -28,7 +28,7 @@
 </div>
 <div class="footerWrapper">
     <div class="footer">
-        Powered by <a href="http://b3log.org" target="_blank">B3log 开源</a> • <a href="https://hacpai.com/tag/Solo" target="_blank">Solo</a> ${version}
+        联系方式 <a href="http://wpa.qq.com/msgrd?V=1&Uin=474513110" target="_blank"> QQ<img border="0" SRC="http://wpa.qq.com/pa?p=1:474513110:4" alt="点击即使聊天"> </a> • <a href="https://hacpai.com/tag/Solo" target="_blank">Solo</a> ${version}
     </div>
 </div>
 </body>
